@@ -1,0 +1,106 @@
+{
+  "employees": [
+    {
+      "id": 4,
+      "name": "CFO",
+      "position": "Chef Financial Officer",
+      "parentId": 1
+    },
+    {
+      "id": 3,
+      "name": "COO",
+      "position": "Chef Operational Officer",
+      "parentId": 1
+    },
+    {
+      "id": 5,
+      "name": "HR",
+      "position": "Human Resource",
+      "parentId": 1
+    },
+    {
+      "id": 6,
+      "name": "Project ManagerR",
+      "position": " Project Manager",
+      "parentId": 2
+    },
+    {
+      "id": 7,
+      "name": "Product Owner",
+      "position": "Product Owner",
+      "parentId": 6
+    },
+    {
+      "id": 8,
+      "name": "Tech Lead",
+      "position": "Tech Lead",
+      "parentId": 7
+    },
+    {
+      "id": 9,
+      "name": "Frontend Developer",
+      "position": "Frontend Developer",
+      "parentId": 8
+    },
+    {
+      "id": 10,
+      "name": "Backend Developer",
+      "position": "Backend Developer",
+      "parentId": 8
+    },
+    {
+      "id": 11,
+      "name": "DevOps Engineer",
+      "position": "DevOps Engineer",
+      "parentId": 8
+    },
+    {
+      "id": 12,
+      "name": "QA Engineer",
+      "position": "QA Engineer",
+      "parentId": 7
+    },
+    {
+      "id": 13,
+      "name": "Scrum Master",
+      "position": "Scrum Master",
+      "parentId": 7
+    },
+    {
+      "id": 14,
+      "name": "Chef Accountant",
+      "position": "Chef Accountant",
+      "parentId": 4
+    },
+    {
+      "id": 15,
+      "name": "Internal Audit",
+      "position": "Internal Audit",
+      "parentId": 4
+    },
+    {
+      "id": 18,
+      "name": "Product Manager",
+      "position": "Product Manager",
+      "parentId": 3
+    },
+    {
+      "id": 20,
+      "name": "Customer Relation",
+      "position": "Customer Relation",
+      "parentId": 3
+    },
+    {
+      "id": 1,
+      "name": "CEO",
+      "position": "CEO",
+      "parentId": null
+    },
+    {
+      "id": 2,
+      "name": "CTO",
+      "position": "Chef Technical Officer",
+      "parentId": 1
+    }
+  ]
+}
