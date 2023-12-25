@@ -1,4 +1,5 @@
 # Angular Homes App
+# an Angular app that lists houses for rent and shows the details of individual houses.
 - Install Angular if you don't have it installed
 
   `npm install -g @angular/cli`
