@@ -1,4 +1,4 @@
-#an Angular app that lists houses for rent and shows the details of individual houses.
+#an Angular app which helps to register the Customers.
 
 # CustomerApplication
 
