@@ -1,5 +1,5 @@
-# Perago Information System
-## Angular Task
+
+## Angular Project
 
 ### Requirement
 Build SPA web application for registering organization's employee hierarchy or structure
